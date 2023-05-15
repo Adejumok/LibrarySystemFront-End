@@ -65,7 +65,6 @@ Contributions are welcome! To contribute, please follow these steps:
 4. Push to the branch (git push origin feature/my-feature)
 5. Open a pull request
 
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Adejumok/LibrarySystemFront-End/blob/main/LICENSE) file for details.
 
