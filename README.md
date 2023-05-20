@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
 The project structure is organized as follows:
 
 ```
-expense-tracker/
+library-system-frontend/
   ├── src/
   │   ├── components/        # React components
   |   ├── context/           # Context for sharing data across components
