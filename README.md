@@ -42,6 +42,26 @@ To run the project locally, follow these steps:
 ### `npm start`
 
 
+## Folder Structure
+
+The project structure is organized as follows:
+
+```
+expense-tracker/
+  ├── src/
+  │   ├── components/        # React components
+  |   ├── context/           # Context for sharing data across components
+  │   ├── App.js             # Main application component
+  │   ├── index.js           # Entry point
+  │   └── index.css          # Entry style
+  ├── .gitignore             # Git ignore file
+  ├── LICENSE                # License file
+  ├── public/                # Public assets
+  ├── README.md              # Project readme
+  ├── package-lock.json      # Describes NPM package configuration
+  └── package.json           # NPM package configuration
+```
+
 ## Usage
 To use this project, follow these steps:
 
